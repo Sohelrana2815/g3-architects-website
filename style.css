@@ -20,6 +20,12 @@
   border: 0;
 }
 
+.section-title {
+  font-size: 3rem;
+  font-weight: 700;
+  color: #131313;
+}
+
 /* Header styles */
 header {
   background: rgba(255, 144, 14, 0.1);
@@ -119,11 +125,10 @@ main {
     grid-template-columns: 1fr;
   }
   .teams-content {
-    padding-right:20px;
-    padding-left:20px;
+    padding-right: 20px;
+    padding-left: 20px;
   }
 }
-
 
 /* Tablet or medium devices */
 
